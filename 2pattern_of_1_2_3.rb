@@ -5,7 +5,7 @@
 #1234
 ##########
 
-class Pattern12345
+class PatternOf1234
 	for i in 1..4
 		for j in 1..i-1
 			print "#{j}"

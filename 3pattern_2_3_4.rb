@@ -6,7 +6,7 @@
 #78910
 #########
 
-class Pattern2345
+class PatternOf2345
 	l = 1
 	for line in 0..4
 		for count in 1..line-1

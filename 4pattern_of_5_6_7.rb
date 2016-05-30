@@ -4,7 +4,7 @@
 #15 17 19 21
 ##########
 
-class Pattern57911
+class PatternOf57911
 	a = 5
 	for line in 1..3
 		for count in 1..line+1

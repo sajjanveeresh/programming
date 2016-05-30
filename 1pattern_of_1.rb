@@ -5,7 +5,7 @@
 # 1111 
 ###################################
 
-class Pat_of_1
+class PatOf111
 	for line in 1..4
 		for count in 1..line-1
 			print "1"
