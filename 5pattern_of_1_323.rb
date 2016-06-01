@@ -10,16 +10,16 @@ class PatternOf1323
 	for line in 1..5
 		for space in 1..count-line
 			print " "
-		end
+		end	
 		m = (2*line) - 1
 		for j in 1..line
 			print m
 			m = m-1
 		end
-		for l in 1..line-1
+		for l in 1..line - 1
 			print "#{line+l}"
 		end
+		# => print "#{line}"
 		puts "\n"
-		#print "#{line}"
 	end
 end
