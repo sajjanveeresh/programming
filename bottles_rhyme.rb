@@ -6,7 +6,7 @@ while a != 0
 	if a == 1
 		puts "#{a}" " bottle of beer on the wall" " #{a}" " bottle of beer"
 	else
-		puts "#{a}" " bottles of beer on the wall" " #{a}" " bottles of beer"
+		puts "#{a}" " bottles of beer on the wall" "#{a}" " bottles of beer"
 	end
 
 	a = a-1
