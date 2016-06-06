@@ -10,7 +10,7 @@ b = y.to_i
 
 
 while a != b
-	if a%4 == 0 or a%400 == 0 and a%100 !=0
+	if a%100 !=0 and a%4 == 0 or a%400 == 0
 		puts "leap years are" "  #{a}"
 	end
 	a = a+1
