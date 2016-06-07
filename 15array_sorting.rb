@@ -1,3 +1,6 @@
+#sort the given numbers of array in descending
+## which we can get Maximum number
+
 def array_sorting(l)
 	s = l.length
 	b= []
