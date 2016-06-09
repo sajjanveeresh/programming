@@ -3,6 +3,6 @@
 puts "hi please enter a number"
 a = gets.chomp
 b = a.to_i
-b = 10
+c = 10
 d = b + c
-puts c
+puts d
