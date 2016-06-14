@@ -1,3 +1,9 @@
+######
+## Program to
+## Mars rovers problem
+#######
+
+
 class Rover
 	def initialize(data)
 		@x = data[0].to_i
