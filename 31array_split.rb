@@ -2,7 +2,6 @@
 ## write the program so that the index has to be given that first part of the given integer x value should
 ## be equals to second part of the non x values
 #######
-d
 
 
 def solution(x,a)
